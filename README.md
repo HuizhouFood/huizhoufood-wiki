@@ -61,7 +61,7 @@ npm run preview
    - **Build Command:** `npm ci && npm run build`
    - **Publish Directory:** `dist`
 3. 部署完成后，静态资源路径为 `/static/*`，SPA 路由由 `_redirects` 与 rewrite 规则处理
-
+4. 部署路径为：[Huizhoufood-wiki](https://huizhoufood-wiki.onrender.com/)
 ---
 
 ## 技术栈
@@ -70,8 +70,6 @@ npm run preview
 - Vite 5
 - Tailwind CSS
 - Headless UI / Heroicons
-
-UI 风格参考 [HuizhouFood/Repo-Update](https://github.com/HuizhouFood/Repo-Update)。
 
 ---
 
